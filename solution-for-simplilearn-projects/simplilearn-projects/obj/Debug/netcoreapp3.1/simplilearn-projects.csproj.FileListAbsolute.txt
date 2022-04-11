@@ -1,0 +1,14 @@
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\bin\Debug\netcoreapp3.1\simplilearn-projects.exe
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\bin\Debug\netcoreapp3.1\simplilearn-projects.deps.json
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\bin\Debug\netcoreapp3.1\simplilearn-projects.runtimeconfig.json
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\bin\Debug\netcoreapp3.1\simplilearn-projects.runtimeconfig.dev.json
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\bin\Debug\netcoreapp3.1\simplilearn-projects.dll
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\bin\Debug\netcoreapp3.1\simplilearn-projects.pdb
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\obj\Debug\netcoreapp3.1\simplilearn-projects.csproj.AssemblyReference.cache
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\obj\Debug\netcoreapp3.1\simplilearn-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\obj\Debug\netcoreapp3.1\simplilearn-projects.AssemblyInfoInputs.cache
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\obj\Debug\netcoreapp3.1\simplilearn-projects.AssemblyInfo.cs
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\obj\Debug\netcoreapp3.1\simplilearn-projects.csproj.CoreCompileInputs.cache
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\obj\Debug\netcoreapp3.1\simplilearn-projects.dll
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\obj\Debug\netcoreapp3.1\simplilearn-projects.pdb
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\simplilearn-projects\obj\Debug\netcoreapp3.1\simplilearn-projects.genruntimeconfig.cache
