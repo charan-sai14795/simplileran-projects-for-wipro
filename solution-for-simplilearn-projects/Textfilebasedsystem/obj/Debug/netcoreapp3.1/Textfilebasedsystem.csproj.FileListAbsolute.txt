@@ -1,0 +1,14 @@
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\bin\Debug\netcoreapp3.1\Textfilebasedsystem.exe
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\bin\Debug\netcoreapp3.1\Textfilebasedsystem.deps.json
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\bin\Debug\netcoreapp3.1\Textfilebasedsystem.runtimeconfig.json
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\bin\Debug\netcoreapp3.1\Textfilebasedsystem.runtimeconfig.dev.json
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\bin\Debug\netcoreapp3.1\Textfilebasedsystem.dll
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\bin\Debug\netcoreapp3.1\Textfilebasedsystem.pdb
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\obj\Debug\netcoreapp3.1\Textfilebasedsystem.csproj.AssemblyReference.cache
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\obj\Debug\netcoreapp3.1\Textfilebasedsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\obj\Debug\netcoreapp3.1\Textfilebasedsystem.AssemblyInfoInputs.cache
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\obj\Debug\netcoreapp3.1\Textfilebasedsystem.AssemblyInfo.cs
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\obj\Debug\netcoreapp3.1\Textfilebasedsystem.csproj.CoreCompileInputs.cache
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\obj\Debug\netcoreapp3.1\Textfilebasedsystem.dll
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\obj\Debug\netcoreapp3.1\Textfilebasedsystem.pdb
+C:\Users\chara\source\repos\simplileran-projects-for-wipro\solution-for-simplilearn-projects\Textfilebasedsystem\obj\Debug\netcoreapp3.1\Textfilebasedsystem.genruntimeconfig.cache
