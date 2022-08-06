@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\solution-for-simplilearn-projects\\simplilearn-projects\\simplilearn-projects.csproj",
+      "projectUniqueName": "C:\\Users\\chara\\source\\repos\\phase3 project\\solution-for-simplilearn-projects\\simplilearn-projects\\simplilearn-projects.csproj",
       "projectName": "simplilearn-projects",
-      "projectPath": "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\solution-for-simplilearn-projects\\simplilearn-projects\\simplilearn-projects.csproj",
+      "projectPath": "C:\\Users\\chara\\source\\repos\\phase3 project\\solution-for-simplilearn-projects\\simplilearn-projects\\simplilearn-projects.csproj",
       "packagesPath": "C:\\Users\\chara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\solution-for-simplilearn-projects\\simplilearn-projects\\obj\\",
+      "outputPath": "C:\\Users\\chara\\source\\repos\\phase3 project\\solution-for-simplilearn-projects\\simplilearn-projects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chara\\AppData\\Roaming\\NuGet\\NuGet.Config",

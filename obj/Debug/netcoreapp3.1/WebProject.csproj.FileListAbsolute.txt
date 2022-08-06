@@ -1,0 +1,9 @@
+C:\Users\chara\source\repos\phase3 project\obj\Debug\netcoreapp3.1\WebProject.csproj.AssemblyReference.cache
+C:\Users\chara\source\repos\phase3 project\obj\Debug\netcoreapp3.1\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chara\source\repos\phase3 project\obj\Debug\netcoreapp3.1\WebProject.AssemblyInfoInputs.cache
+C:\Users\chara\source\repos\phase3 project\obj\Debug\netcoreapp3.1\WebProject.AssemblyInfo.cs
+C:\Users\chara\source\repos\phase3 project\obj\Debug\netcoreapp3.1\WebProject.csproj.CoreCompileInputs.cache
+C:\Users\chara\source\repos\phase3 project\obj\Debug\netcoreapp3.1\WebProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chara\source\repos\phase3 project\obj\Debug\netcoreapp3.1\WebProject.RazorAssemblyInfo.cache
+C:\Users\chara\source\repos\phase3 project\obj\Debug\netcoreapp3.1\WebProject.RazorAssemblyInfo.cs
+C:\Users\chara\source\repos\phase3 project\obj\Debug\netcoreapp3.1\WebProject.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\solution-for-simplilearn-projects\\Textfilebasedsystem\\Textfilebasedsystem.csproj": {}
+    "C:\\Users\\chara\\source\\repos\\phase3 project\\solution-for-simplilearn-projects\\Textfilebasedsystem\\Textfilebasedsystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\solution-for-simplilearn-projects\\Textfilebasedsystem\\Textfilebasedsystem.csproj": {
+    "C:\\Users\\chara\\source\\repos\\phase3 project\\solution-for-simplilearn-projects\\Textfilebasedsystem\\Textfilebasedsystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\solution-for-simplilearn-projects\\Textfilebasedsystem\\Textfilebasedsystem.csproj",
+        "projectUniqueName": "C:\\Users\\chara\\source\\repos\\phase3 project\\solution-for-simplilearn-projects\\Textfilebasedsystem\\Textfilebasedsystem.csproj",
         "projectName": "Textfilebasedsystem",
-        "projectPath": "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\solution-for-simplilearn-projects\\Textfilebasedsystem\\Textfilebasedsystem.csproj",
+        "projectPath": "C:\\Users\\chara\\source\\repos\\phase3 project\\solution-for-simplilearn-projects\\Textfilebasedsystem\\Textfilebasedsystem.csproj",
         "packagesPath": "C:\\Users\\chara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\solution-for-simplilearn-projects\\Textfilebasedsystem\\obj\\",
+        "outputPath": "C:\\Users\\chara\\source\\repos\\phase3 project\\solution-for-simplilearn-projects\\Textfilebasedsystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chara\\AppData\\Roaming\\NuGet\\NuGet.Config",

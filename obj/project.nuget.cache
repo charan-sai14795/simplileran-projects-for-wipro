@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aW/5VvJzc+LR6ZJuOHfPX/8KSgnbJorTFF5uiNFZdCkAnvueXHZMuOkhBCaiVdv9qSzkhOjHleZFUerAX7nclg==",
+  "dgSpecHash": "5WRdyikD3HLOB8Zr0QtUIKPWLxq/TL3TsGeRSDJFBFgsWyA41GAbztlnEzBaStePWzGvtxbO8AI/keb5btfmzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chara\\source\\repos\\Create-an-ASP.NET-MVC-Ecommerce-Site-to-Sell-Laptops\\WebProject.csproj",
+  "projectFilePath": "C:\\Users\\chara\\source\\repos\\phase3 project\\WebProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chara\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\chara\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

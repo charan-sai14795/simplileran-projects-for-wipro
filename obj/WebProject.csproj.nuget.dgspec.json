@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chara\\source\\repos\\Create-an-ASP.NET-MVC-Ecommerce-Site-to-Sell-Laptops\\WebProject.csproj": {}
+    "C:\\Users\\chara\\source\\repos\\phase3 project\\WebProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chara\\source\\repos\\Create-an-ASP.NET-MVC-Ecommerce-Site-to-Sell-Laptops\\WebProject.csproj": {
+    "C:\\Users\\chara\\source\\repos\\phase3 project\\WebProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chara\\source\\repos\\Create-an-ASP.NET-MVC-Ecommerce-Site-to-Sell-Laptops\\WebProject.csproj",
+        "projectUniqueName": "C:\\Users\\chara\\source\\repos\\phase3 project\\WebProject.csproj",
         "projectName": "WebProject",
-        "projectPath": "C:\\Users\\chara\\source\\repos\\Create-an-ASP.NET-MVC-Ecommerce-Site-to-Sell-Laptops\\WebProject.csproj",
+        "projectPath": "C:\\Users\\chara\\source\\repos\\phase3 project\\WebProject.csproj",
         "packagesPath": "C:\\Users\\chara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chara\\source\\repos\\Create-an-ASP.NET-MVC-Ecommerce-Site-to-Sell-Laptops\\obj\\",
+        "outputPath": "C:\\Users\\chara\\source\\repos\\phase3 project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chara\\AppData\\Roaming\\NuGet\\NuGet.Config",

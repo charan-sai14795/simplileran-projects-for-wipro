@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\bin\\Release",
+    "\\Controllers",
+    "\\CSS",
+    "\\Data",
+    "\\solution-for-simplilearn-projects\\Textfilebasedsystem",
+    "\\ViewModels"
   ],
-  "SelectedNode": "\\C:\\Users\\chara\\source\\repos\\phase3 project",
+  "SelectedNode": "\\WebProject.sln",
   "PreviewInSolutionExplorer": false
 }
